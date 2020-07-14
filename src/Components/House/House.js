@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
 
-class Dashboard extends Component{
+class House extends Component{
 
     render(){
         return(
 
-            <div>Dashboard</div>
+            <div>House</div>
 
 
         )
@@ -13,4 +13,4 @@ class Dashboard extends Component{
 }
 
 
-export default Dashboard
+export default House

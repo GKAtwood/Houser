@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
 
-class Dashboard extends Component{
+class Wizard extends Component{
 
     render(){
         return(
 
-            <div>Dashboard</div>
+            <div>Wizard</div>
 
 
         )
@@ -13,4 +13,4 @@ class Dashboard extends Component{
 }
 
 
-export default Dashboard
+export default Wizard
